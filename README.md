@@ -1,2 +1,3 @@
-uBucketApp
-==========
+Every year, thousands of university students graduate without truly exploring their college campus, and fail to visit campus landmarks and perform cultural acts. uBucket is a social todo list app meant to manage university students' bucket lists and act as a social means to submit, comment, and favorite bucket list stories within their university's network. This application will be available to everyone on all smartphone platforms for free. uBucket will finally allow students to compose a list of things they want to do at their university before leaving, and serve as a means to share, discuss, and accomplish these tasks before they graduate and leave campus.
+
+This app is currently under development.
